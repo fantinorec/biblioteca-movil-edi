@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Biblioteca",
+    "slug": "biblioteca-app",
+    "version": "1.0.0",
+    "scheme": "biblioteca",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "android": { "package": "com.renzo.biblioteca" }
+  }
+}
